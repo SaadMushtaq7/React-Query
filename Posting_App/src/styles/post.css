@@ -1,0 +1,22 @@
+.card{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.card .action-btn{
+    display: flex;
+}
+
+.card .btn {
+    margin: 15px 5px;
+    width: 120px;
+}
+
+form {
+    margin: 10px 30px;
+}
+
+
+.container .btn-primary {
+    margin-left: 100px;
+}
